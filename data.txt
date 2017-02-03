@@ -55,6 +55,12 @@ Human Destroyer
 Dave168
 # McNo 1408
 # Finish date : 20120307
+# 3rd party
+# Lose
+# Original Player
+orcinus_theoriginal
+# Replace-in
+# Replace-out
 # Mafia
 # Win
 # Original Player
@@ -65,12 +71,6 @@ mastin2
 # Replace-out
 Om
 ZONEACE
-# 3rd party
-# Lose
-# Original Player
-orcinus_theoriginal
-# Replace-in
-# Replace-out
 # Town
 # Lose
 # Original Player
@@ -155,6 +155,13 @@ ArcAngel9
 The Acting Method
 # McNo 1414
 # Finish date : 20130221
+# Werewolf
+# Lose
+# Original Player
+JasonWazza
+Hiraki
+# Replace-in
+# Replace-out
 # Mafia
 # Lose
 # Original Player
@@ -163,13 +170,6 @@ WT Snacks
 Viomi
 # Replace-out
 Hume
-# Werewolf
-# Lose
-# Original Player
-JasonWazza
-Hiraki
-# Replace-in
-# Replace-out
 # Town
 # Win
 # Original Player
@@ -188,18 +188,18 @@ Golden Mean
 Xegarus
 # McNo 1410
 # Finish date : 20130308
+# 3rd party
+# Lose
+# Original Player
+roflcopter
+# Replace-in
+# Replace-out
 # Mafia
 # Lose
 # Original Player
 captaineddie
 havingfitz
 RestFermata
-# Replace-in
-# Replace-out
-# 3rd party
-# Lose
-# Original Player
-roflcopter
 # Replace-in
 # Replace-out
 # Town
@@ -218,6 +218,12 @@ DrippingGoofball
 # Replace-out
 # McNo 1420
 # Finish date : 20130313
+# 3rd party
+# Win
+# Original Player
+goodmorning
+# Replace-in
+# Replace-out
 # Mafia
 # Lose
 # Original Player
@@ -228,12 +234,6 @@ Malakittens
 # Replace-out
 Psyche 
 Om
-# 3rd party
-# Win
-# Original Player
-goodmorning
-# Replace-in
-# Replace-out
 # Town
 # Lose
 # Original Player
@@ -340,6 +340,12 @@ Beyond_Birthday
 Bomb
 # McNo 1433
 # Finish date : 20130501
+# 3rd party
+# Lose
+# Original Player
+Lurker
+# Replace-in
+# Replace-out
 # Mafia
 # Lose
 # Original Player
@@ -351,12 +357,6 @@ Zdenek
 Kashoodles 
 JKMatthews
 Xegarus
-# 3rd party
-# Lose
-# Original Player
-Lurker
-# Replace-in
-# Replace-out
 # Town
 # Win
 # Original Player
@@ -381,18 +381,18 @@ Keybladewielder
 BrightEyedFish
 # McNo 1446
 # Finish date : 20130523
+# 3rd party
+# Lose
+# Original Player
+Bacde
+# Replace-in
+# Replace-out
 # Mafia
 # Lose
 # Original Player
 Palmar
 Horus
 Ankamius
-# Replace-in
-# Replace-out
-# 3rd party
-# Lose
-# Original Player
-Bacde
 # Replace-in
 # Replace-out
 # Town
@@ -691,6 +691,12 @@ mechron
 CommieX
 # McNo 1454
 # Finish date : 20130629
+# 3rd party
+# Lose
+# Original Player
+Aj The Epic
+# Replace-in
+# Replace-out
 # Mafia
 # Win
 # Original Player
@@ -700,12 +706,6 @@ notscience
 GuyInFreezer
 # Replace-out
 AngelInFreezer
-# 3rd party
-# Lose
-# Original Player
-Aj The Epic
-# Replace-in
-# Replace-out
 # Town
 # Lose
 # Original Player
@@ -1284,6 +1284,13 @@ maverick_alpha
 # Replace-out
 # McNo 1464
 # Finish date : 20130801
+# 3rd party
+# Lose
+# Original Player
+# Replace-in
+Smudger
+# Replace-out
+Captain Corporal
 # Mafia
 # Lose
 # Original Player
@@ -1292,13 +1299,6 @@ Feel It
 Infinity 324
 # Replace-out
 pitoli
-# 3rd party
-# Lose
-# Original Player
-# Replace-in
-Smudger
-# Replace-out
-Captain Corporal
 # Town
 # Win
 # Original Player
@@ -1481,6 +1481,12 @@ SalmonellaDreams
 reham008
 # McNo 1471
 # Finish date : 20130808
+# 3rd party
+# Win
+# Original Player
+Empking
+# Replace-in
+# Replace-out
 # Mafia
 # Lose
 # Original Player
@@ -1489,12 +1495,6 @@ roflcopter
 Zaicon
 # Replace-out
 ConfidAnon
-# 3rd party
-# Win
-# Original Player
-Empking
-# Replace-in
-# Replace-out
 # Town
 # Lose
 # Original Player
@@ -1681,6 +1681,13 @@ NSin
 Winter
 # McNo 1469
 # Finish date : 20130820
+# 3rd party
+# Lose
+# Original Player
+# Replace-in
+morph the cat
+# Replace-out
+NoEffenCllue
 # Mafia
 # Win
 # Original Player
@@ -1693,13 +1700,6 @@ projectmatt
 Reecer6
 Yates 
 hapahauli
-# 3rd party
-# Lose
-# Original Player
-# Replace-in
-morph the cat
-# Replace-out
-NoEffenCllue
 # Town
 # Lose
 # Original Player
@@ -2877,6 +2877,12 @@ Nachomamma8
 # Replace-out
 # McNo 1501
 # Finish date : 20131111
+# 3rd party
+# Win
+# Original Player
+SpyreX
+# Replace-in
+# Replace-out
 # Mafia
 # Lose
 # Original Player
@@ -2885,12 +2891,6 @@ Plum
 Empire
 # Replace-out
 Maestro
-# 3rd party
-# Win
-# Original Player
-SpyreX
-# Replace-in
-# Replace-out
 # Town
 # Lose
 # Original Player
@@ -3285,15 +3285,6 @@ hayatoBL
 Montosh
 # McNo 1509
 # Finish date : 20131214
-# Mafia
-# Win
-# Original Player
-Garruk Relentless
-# Replace-in
-DeasVail
-# Replace-out
-Remembrance 
-Windblown
 # 3rd party
 # Lose
 # Original Player
@@ -3304,6 +3295,15 @@ Mindgamer
 JKLM 
 Wake88 
 Ravenpaw
+# Mafia
+# Win
+# Original Player
+Garruk Relentless
+# Replace-in
+DeasVail
+# Replace-out
+Remembrance 
+Windblown
 # Town
 # Lose
 # Original Player
@@ -4640,6 +4640,12 @@ Zekrom25
 XLAV
 # McNo 1645
 # Finish date : 20140410
+# 3rd party
+# Lose
+# Original Player
+massive
+# Replace-in
+# Replace-out
 # Mafia
 # Win
 # Original Player
@@ -4648,12 +4654,6 @@ Aneninen
 Varsoon
 # Replace-out
 TroubledTownie
-# 3rd party
-# Lose
-# Original Player
-massive
-# Replace-in
-# Replace-out
 # Town
 # Lose
 # Original Player
@@ -4796,17 +4796,17 @@ YurikoJasmine
 # Replace-out
 # McNo 1553
 # Finish date : 20140423
+# 3rd party
+# Win
+# Original Player
+Does Bo Know
+# Replace-in
+# Replace-out
 # Mafia
 # Lose
 # Original Player
 SiX
 neil1113
-# Replace-in
-# Replace-out
-# 3rd party
-# Win
-# Original Player
-Does Bo Know
 # Replace-in
 # Replace-out
 # Town
@@ -5946,18 +5946,18 @@ ludakic300
 # Replace-out
 # McNo 1579
 # Finish date : 20140720
+# 3rd party
+# Lose
+# Original Player
+Slandaar
+# Replace-in
+# Replace-out
 # Mafia
 # Win
 # Original Player
 Josh_B
 chaoslord54
 reinoe
-# Replace-in
-# Replace-out
-# 3rd party
-# Lose
-# Original Player
-Slandaar
 # Replace-in
 # Replace-out
 # Town
@@ -6079,6 +6079,12 @@ Antihero
 Jakuzure Nonon
 # McNo 1680
 # Finish date : 20140726
+# 3rd party
+# Lose
+# Original Player
+droog
+# Replace-in
+# Replace-out
 # Mafia
 # Win
 # Original Player
@@ -6088,12 +6094,6 @@ MonkeyMan576
 pablito
 # Replace-out
 oddmusic
-# 3rd party
-# Lose
-# Original Player
-droog
-# Replace-in
-# Replace-out
 # Town
 # Lose
 # Original Player
@@ -6349,6 +6349,12 @@ King of Space
 # Replace-out
 # McNo 1582
 # Finish date : 20140819
+# 3rd party
+# Lose
+# Original Player
+massive
+# Replace-in
+# Replace-out
 # Mafia
 # Lose
 # Original Player
@@ -6357,12 +6363,6 @@ Drew-Sta
 Tattletale
 # Replace-out
 I Love Fairies
-# 3rd party
-# Lose
-# Original Player
-massive
-# Replace-in
-# Replace-out
 # Town
 # Win
 # Original Player
@@ -6462,6 +6462,14 @@ VictorDeAngelo
 T S O
 # McNo 1584
 # Finish date : 20140824
+# Werewolf
+# Win
+# Original Player
+Fat_Tony
+# Replace-in
+Elyse
+# Replace-out
+Scarab
 # Mafia
 # Lose
 # Original Player
@@ -6471,14 +6479,6 @@ havingfitz
 # Replace-out
 Lowercase
 Garruk Relentless
-# Werewolf
-# Win
-# Original Player
-Fat_Tony
-# Replace-in
-Elyse
-# Replace-out
-Scarab
 # Town
 # Lose
 # Original Player
@@ -6496,18 +6496,18 @@ reinoe
 Cabd
 # McNo 1674
 # Finish date : 20140824
+# 3rd party
+# Lose
+# Original Player
+BlueBloodedToffee
+# Replace-in
+# Replace-out
 # Werewolf
 # Win
 # Original Player
 pieguyn
 Cho
 Huntress
-# Replace-in
-# Replace-out
-# 3rd party
-# Lose
-# Original Player
-BlueBloodedToffee
 # Replace-in
 # Replace-out
 # Town
@@ -7034,6 +7034,12 @@ Bjc
 RBlinker
 # McNo 1690
 # Finish date : 20141012
+# 3rd party
+# Lose
+# Original Player
+Chevre
+# Replace-in
+# Replace-out
 # Mafia
 # Win
 # Original Player
@@ -7043,12 +7049,6 @@ Quaroath
 Jazzmyn
 # Replace-out
 Grimmjow
-# 3rd party
-# Lose
-# Original Player
-Chevre
-# Replace-in
-# Replace-out
 # Town
 # Lose
 # Original Player
@@ -7214,6 +7214,13 @@ Derivan
 roflcopter
 # McNo 1687
 # Finish date : 20141027
+# Ultraviolet Mafia
+# Win
+# Original Player
+Thor665
+Shinobi
+# Replace-in
+# Replace-out
 # Mafia
 # Lose
 # Original Player
@@ -7222,13 +7229,6 @@ BlueBloodedToffee
 Bellaphant
 # Replace-out
 Cthulhu Dreaming
-# Ultraviolet Mafia
-# Win
-# Original Player
-Thor665
-Shinobi
-# Replace-in
-# Replace-out
 # Town
 # Lose
 # Original Player
@@ -7612,6 +7612,12 @@ VysePresident
 ToddBellington
 # McNo 1620
 # Finish date : 20141210
+# 3rd party
+# Lose
+# Original Player
+TheDudeAbides
+# Replace-in
+# Replace-out
 # Mafia
 # Win
 # Original Player
@@ -7621,12 +7627,6 @@ LlamaFluff
 Egg
 # Replace-out
 Clusk92
-# 3rd party
-# Lose
-# Original Player
-TheDudeAbides
-# Replace-in
-# Replace-out
 # Town
 # Lose
 # Original Player
@@ -7830,6 +7830,12 @@ Micc
 ludakic300
 # McNo 1618
 # Finish date : 20141225
+# 3rd party
+# Lose
+# Original Player
+bruin228
+# Replace-in
+# Replace-out
 # Mafia
 # Win
 # Original Player
@@ -7838,12 +7844,6 @@ acryon
 Belisarius
 # Replace-out
 temphdq Day 1
-# 3rd party
-# Lose
-# Original Player
-bruin228
-# Replace-in
-# Replace-out
 # Town
 # Lose
 # Original Player
@@ -8062,14 +8062,6 @@ redFF
 Vinkah
 # McNo 1625
 # Finish date : 20150113
-# Mafia
-# Lose
-# Original Player
-Munkir
-# Replace-in
-Thor665
-# Replace-out
-Originalchris
 # Werewolf
 # Lose
 # Original Player
@@ -8079,6 +8071,14 @@ DrippingGoofball
 # Replace-out
 Goblin 
 Riddleton
+# Mafia
+# Lose
+# Original Player
+Munkir
+# Replace-in
+Thor665
+# Replace-out
+Originalchris
 # Town
 # Win
 # Original Player
@@ -8523,6 +8523,12 @@ sordros
 silverspawn
 # McNo 1706
 # Finish date : 20150302
+# 3rd party
+# Lose
+# Original Player
+Maxous
+# Replace-in
+# Replace-out
 # Mafia
 # Win
 # Original Player
@@ -8532,12 +8538,6 @@ catboi
 St Constantine the Hermit
 # Replace-out
 Banakai
-# 3rd party
-# Lose
-# Original Player
-Maxous
-# Replace-in
-# Replace-out
 # Town
 # Lose
 # Original Player
@@ -9881,6 +9881,13 @@ Powder Punk Girl
 # Replace-out
 # McNo 1716
 # Finish date : 20150629
+# 3rd party
+# Lose
+# Original Player
+# Replace-in
+Performer
+# Replace-out
+Kyubey The Kid
 # Mafia
 # Win
 # Original Player
@@ -9892,13 +9899,6 @@ ChannelDelibird
 Evvenomous
 TheWorst
 Duppin
-# 3rd party
-# Lose
-# Original Player
-# Replace-in
-Performer
-# Replace-out
-Kyubey The Kid
 # Town
 # Lose
 # Original Player
@@ -11232,17 +11232,17 @@ SilverWolf
 Brian Skies
 # McNo 1779
 # Finish date : 20150930
+# 3rd party
+# Lose
+# Original Player
+Killthestory
+# Replace-in
+# Replace-out
 # Werewolf
 # Lose
 # Original Player
 Masquerade
 UpTooLate
-# Replace-in
-# Replace-out
-# 3rd party
-# Lose
-# Original Player
-Killthestory
 # Replace-in
 # Replace-out
 # Town
@@ -11310,17 +11310,17 @@ Dongempire
 Storm Bird
 # McNo 1777
 # Finish date : 20151003
+# 3rd party
+# Lose
+# Original Player
+duppin
+# Replace-in
+# Replace-out
 # Mafia
 # Win
 # Original Player
 GuyFawkes
 camn
-# Replace-in
-# Replace-out
-# 3rd party
-# Lose
-# Original Player
-duppin
 # Replace-in
 # Replace-out
 # Town
@@ -11925,6 +11925,12 @@ tn5421
 Robbnva
 # McNo 1809
 # Finish date : 20151128
+# 3rd party
+# Lose
+# Original Player
+Robbnva
+# Replace-in
+# Replace-out
 # Mafia
 # Lose
 # Original Player
@@ -11934,12 +11940,6 @@ Masquerade
 MathBlade
 # Replace-out
 BlankFace
-# 3rd party
-# Lose
-# Original Player
-Robbnva
-# Replace-in
-# Replace-out
 # Town
 # Win
 # Original Player
@@ -12153,12 +12153,10 @@ MarioManiac4
 stelo
 # McNo 1797
 # Finish date : 20151220
-# Mafia
+# 3rd party
 # Lose
 # Original Player
-Firebringer
-Necrogirl
-Sickofit1138
+Nahdia
 # Replace-in
 # Replace-out
 # Werewolf
@@ -12168,10 +12166,12 @@ CooLDoG
 dramonic
 # Replace-in
 # Replace-out
-# 3rd party
+# Mafia
 # Lose
 # Original Player
-Nahdia
+Firebringer
+Necrogirl
+Sickofit1138
 # Replace-in
 # Replace-out
 # Town
@@ -14374,25 +14374,30 @@ DeathByWobbuffet
 B??rk B??rk
 # Replace-in
 # Replace-out
-# Newb 1759
+# Newb 1758
 # Finish date : 20161127
 # Town
-# Win
-# Original Player
-SugarNips
-Fredrick E Campbell
-gigabyteTroubadour
-Immy
-Papa Zito
-PenguinPower
-Selynee
-# Replace-in
-# Replace-out
-# Mafia
 # Lose
 # Original Player
-Friend Computer
-Showtime
+Loopdan
+Human Sequencer
+Sobolev Space
+Hellfire Missile
+# Replace-in
+Locust
+ThinkBig
+Huntress
+# Replace-out
+DayahaangRai
+alphabetorical
+Empoof
+Joshz
+Psyche
+# Mafia
+# Win
+# Original Player
+Jackel98
+HowardRoark
 # Replace-in
 # Replace-out
 # Newb 1755
@@ -14469,8 +14474,58 @@ Huntress
 rJXr
 # Replace-in
 # Replace-out
-# Newb 1763
+# Newb 1761
 # Finish date : 20161215
+# Town
+# Win
+# Original Player
+XnadrojX
+ArcAngel9
+Zaraki_Jaegerjaquez
+algebra
+# Replace-in
+Hellfire Missile
+SensFan
+CloudKicker
+Nachomamma8
+PenguinPower
+# Replace-out
+JR
+Clemency
+NOBii
+MortFeld
+Deimos27
+Cheetory6
+TierShift
+karldilkington
+# Mafia
+# Lose
+# Original Player
+# Replace-in
+# Replace-out
+# Newb 1760
+# Finish date : 20161216
+# Town
+# Win
+# Original Player
+Elbirn
+Toto
+Alisae
+GuyInFreezer
+JaeReed
+TierShift
+Tywin Lannister
+# Replace-in
+# Replace-out
+# Mafia
+# Lose
+# Original Player
+thenameipicked
+Ms Columbo
+# Replace-in
+# Replace-out
+# Newb 1763
+# Finish date : 20161217
 # Town
 # Lose
 # Original Player
@@ -14488,27 +14543,6 @@ Hawk
 # Original Player
 -Grey-
 krylea
-# Replace-in
-# Replace-out
-# Newb 1762
-# Finish date : 20161216
-# Town
-# Lose
-# Original Player
-PsychoticDave
--Grey-
-Titus
-ArcAngel9
-EchoVision
-GuiltyLion
-havingfitz
-# Replace-in
-# Replace-out
-# Mafia
-# Win
-# Original Player
-Loopdan
-Dunnstral
 # Replace-in
 # Replace-out
 # McNo 1812
@@ -14627,24 +14661,166 @@ keyenpeydee
 Vijarada
 # Replace-in
 # Replace-out
-# Newb 1760
+# Newb 1764
+# Finish date : 20170107
+# Town
+# Win
+# Original Player
+Charloux
+Accountant
+Gamma Emerald
+Pepchoninga
+# Replace-in
+Alisae
+Ramcius
+nydushermain
+# Replace-out
+Van_Veacesalv_Dulca
+DBlack
+MoochiPanda
+# Mafia
+# Lose
+# Original Player
+# Replace-in
+Srceenplay
+ssbm_Kyouko
+# Replace-out
+DeathByWobbuffet
+Mewtaph
+# Newb 1765
+# Finish date : 20170110
+# Town
+# Win
+# Original Player
+Superhans
+ConnorJC
+LicketyQuickety
+Nachomamma8
+# Replace-in
+Grendel
+Rautherdir1
+toblerone187
+# Replace-out
+FancyPants
+Immy
+midnight-panda
+DefyingGravity
+# Mafia
+# Lose
+# Original Player
+TheDominator37
+# Replace-in
+Secret Agent Jin
+# Replace-out
+Lovesick1
+# Newb 1759
 # Finish date : 20170113
 # Town
 # Win
 # Original Player
-Elbirn
-Toto
-Alisae
-GuyInFreezer
-JaeReed
-TierShift
-Tywin Lannister
+SugarNips
+Fredrick E Campbell
+gigabyteTroubadour
+Immy
+Papa Zito
+PenguinPower
+Selynee
 # Replace-in
 # Replace-out
 # Mafia
 # Lose
 # Original Player
-thenameipicked
-Ms Columbo
+Friend Computer
+Showtime
 # Replace-in
 # Replace-out
+# Newb 1766
+# Finish date : 20170115
+# Town
+# Lose
+# Original Player
+Friend Computer
+Zekromaster
+Sofiel
+ssbm_Kyouko
+rb
+# Replace-in
+ThinkBig
+lucca261
+# Replace-out
+Political Clout
+Generalcamo
+# Mafia
+# Win
+# Original Player
+the_end
+Aeronaut
+# Replace-in
+# Replace-out
+# Newb 1762
+# Finish date : 20170117
+# Town
+# Lose
+# Original Player
+PsychoticDave
+-Grey-
+Titus
+ArcAngel9
+EchoVision
+GuiltyLion
+havingfitz
+# Replace-in
+# Replace-out
+# Mafia
+# Win
+# Original Player
+Loopdan
+Dunnstral
+# Replace-in
+# Replace-out
+# Newb 1769
+# Finish date : 20170121
+# Town
+# Lose
+# Original Player
+ThinkBig
+Mattblackguy
+Creature
+Raskolnikov
+schadd_
+gigabyteTroubadour
+# Replace-in
+Cassielle
+# Replace-out
+rakkar
+# Mafia
+# Win
+# Original Player
+# Replace-in
+-Grey-
+RadiantCowbells
+# Replace-out
+GAYreenHamster
+Shade
+# Newb 1767
+# Finish date : 20170129
+# Town
+# Win
+# Original Player
+EchoVision
+Sickofit1138
+lucca261
+TheBrie
+Loopdan
+SensFan
+Huntress
+# Replace-in
+# Replace-out
+# Mafia
+# Lose
+# Original Player
+Raskolnikov
+# Replace-in
+Sobolev Space
+# Replace-out
+Fredrick E Campbell
