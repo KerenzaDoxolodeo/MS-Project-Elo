@@ -4,5 +4,5 @@ Welcome to Project Elo, where I store the data to create and run Project Elo
 
 Data archived
 
-- Newbie 1370 ~ Newbie 1763 (except 1758 and 1761)
+- Newbie 1370 ~ Newbie 1769 (except 1768)
 - Mini Normal 1401 ~ Mini Normal 1789
